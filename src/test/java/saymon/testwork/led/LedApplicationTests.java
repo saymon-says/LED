@@ -1,4 +1,4 @@
-package saymon.testwork.LED;
+package saymon.testwork.led;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
